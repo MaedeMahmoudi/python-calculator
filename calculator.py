@@ -1,4 +1,5 @@
 
+#konsole calculator
 
 operator = input("enter an operator (+ - * /) : ")
 number1 = float(input("enter 1'st number = "))
